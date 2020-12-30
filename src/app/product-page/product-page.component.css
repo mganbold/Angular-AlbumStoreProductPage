@@ -1,5 +1,10 @@
-.p {
+p {
   font-size: 16px;
   font-family: Helvetica, Arial, sans-serif;
   font-weight: normal;
+  color: red;
+}
+
+img {
+  width: 100%;
 }
